@@ -21,7 +21,7 @@ The frontend part of the application is available at: [Donatii Frontend](https:/
 
 1. Clone the repository:
 ```bash
-git clone [repository URL]
+git clone https://github.com/Iurocl-git/Donatii_WEB_Server
 ```
 
 2. Install dependencies:
