@@ -1,0 +1,18 @@
+# Environment variables
+.env
+
+# TLS certificates
+/tls/
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo 
